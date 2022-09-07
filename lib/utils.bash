@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for <YOUR TOOL>.
-GH_REPO="hookdeck/hookdeck-cli"
+GH_REPO="https://github.com/hookdeck/hookdeck-cli"
 TOOL_NAME="hookdeck"
 TOOL_TEST="hookdeck --version"
 
